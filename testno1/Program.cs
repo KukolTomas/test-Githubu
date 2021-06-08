@@ -23,7 +23,7 @@ namespace testno1
                 Console.WriteLine("Není datetime");
             }
             Console.WriteLine(new Program());
-            Console.WriteLine(dt);
+
             Console.ReadLine();
             
         }
